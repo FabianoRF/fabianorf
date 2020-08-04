@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Meu nome é Fabiano, sou estudante de Ciêcias da Computação pelo IFSULDEMINAS, sou natural de Cássia e moro atualmente em Passos. Sou apaixonado por desenvolvimento Web e resolução de problemas. Atualmente tenho passado o tempo estudado React, React-Native e Node. Dê uma olhadinha ai embaixo...😄
+
+### Entre em contato comigo:
+
+Email: fabianordev@gmail.com
+LinkedIn: https://www.linkedin.com/in/fabiano-reis-faleiros-55532b190
+
 <!--
 **FabianoRF/fabianorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
