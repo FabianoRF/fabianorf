@@ -2,7 +2,7 @@
 
 ## Olá pessoal :wave:
 
-Meu nome é Fabiano, sou estudante de Ciências da Computação pelo IFSULDEMINAS, sou natural de Cássia e moro atualmente em Passos. Sou apaixonado por desenvolvimento Web e resolução de problemas. Atualmente tenho passado o tempo estudado React, React-Native e Node, buscando coloborar com projetos em Front-end e Back-end. Dê uma olhadinha ai embaixo...😄
+Meu nome é Fabiano, sou estudante de Ciências da Computação, e aluno do BootCamp GoStack da RocketSeat, sou natural de Cássia e moro atualmente em Passos. Sou apaixonado por desenvolvimento Web e resolução de problemas. Atualmente tenho passado o tempo estudado React, React-Native e Node, buscando coloborar com projetos em Front-end e Back-end. Dê uma olhadinha ai embaixo...😄
 
 ### Entre em contato comigo:
 
