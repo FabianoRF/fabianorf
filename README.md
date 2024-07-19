@@ -2,7 +2,7 @@
 
 ## Olá pessoal :wave:
 
-Sou formado em Ciência da Computação e sou desenvolvedor FullStack, atuando no projeto ShellBox. 
+Sou formado em Ciência da Computação e sou desenvolvedor FullStack, atuando na AskSuite. 
 
 Tenho conhecimento em tecnologias como NodeJs, Angular, React e Serverless framework. Atuo também com serviços em nuvem da AWS utilizando de arquitetura de micro serviços. Já atuei em alguns projetos como freelancer.
 
