@@ -2,7 +2,7 @@
 
 ## Hi :wave:
 
-Hi, I’m Fabiano, a developer with over 4 years of experience in building scalable and efficient solutions. I work with technologies like TypeScript, Angular, React, Node.js, Express, NestJS, SQL, Redis, and various AWS services, including S3, EC2, RDS, SNS, SQS, Lambda, and DynamoDB.
+Hi, I’m Fabiano, a developer with over 5 years of experience in building scalable and efficient solutions. I work with technologies like TypeScript, Angular, React, Node.js, Express, NestJS, SQL, Redis, and various AWS services, including S3, EC2, RDS, SNS, SQS, Lambda, and DynamoDB.
 
 Throughout my career, I have worked with startups and large companies, developing products that optimize processes and enhance user experience. I’m a strong advocate of clean code, automated testing, and agile methodologies like Scrum and Kanban.
 
